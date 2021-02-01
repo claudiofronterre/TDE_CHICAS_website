@@ -17,6 +17,11 @@
   name = "People"
   url = "people"
   weight = 30
+  
+[[main]]
+  name = "Team"
+  url = "team"
+  weight = 35
 
 [[main]]
   name = "Publications"
